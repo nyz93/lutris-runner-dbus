@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=KRunnerLutris(Rust)
+Comment=Run games from lutris
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=Lutris
+X-KDE-PluginInfo-Author=Zoltan Nyikos
+X-KDE-PluginInfo-Email=nyikoszoltan0@gmail.com
+X-KDE-PluginInfo-Name=KRunnerLutrisRS
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=org.kde.KRunnerLutris
+X-Plasma-DBusRunner-Path=/KRunnerLutris

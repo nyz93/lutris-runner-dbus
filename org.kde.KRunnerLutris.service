@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.kde.KRunnerLutris
+Exec=BIN_PATH
